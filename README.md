@@ -11,8 +11,10 @@ Wave:
 - Auto Cashier
 - Auto Boxer
 - Auto Delivery
-- Auto Suppiler (Broken ATM)
+> Broken Needs Work
+- Auto Suppiler
 > To Do List
+- Auto Cook
 - Teleporting areas (My To Do List)
 
 Solara:
