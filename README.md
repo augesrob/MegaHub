@@ -7,12 +7,12 @@ https://discord.gg/mP6J4wWzFP
 # Supported Games
 Wave:
 > Work At A Pizza Place
->> Working Features
+> Working Features
 - Auto Cashier
 - Auto Boxer
 - Auto Delivery
 - Auto Suppiler (Broken ATM)
->> To Do List
+> To Do List
 - Teleporting areas (My To Do List)
 
 Solara:
